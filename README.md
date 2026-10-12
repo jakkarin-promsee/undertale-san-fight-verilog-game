@@ -6,7 +6,13 @@ An unofficial, educational Verilog project inspired by the final Sans fight in _
 
 ## Demo video
 
+<div align="center">
+
 <video src="https://github.com/user-attachments/assets/a90ca825-816f-44bb-8f4a-fe2e0b19cddf" controls width="640"></video>
+
+**▶ [Watch the full system demo](https://github.com/user-attachments/assets/a90ca825-816f-44bb-8f4a-fe2e0b19cddf)**
+
+</div>
 
 ## Hardware and project setup
 
