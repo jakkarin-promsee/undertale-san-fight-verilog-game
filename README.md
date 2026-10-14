@@ -147,3 +147,7 @@ A useful validation sequence for continued work is: verify one 640 × 480 frame 
 No bitstream or timing/DRC results are included in this repository. Vivado build directories are excluded by `.gitignore`; keep the RTL, constraints, and required `.mem` assets under version control.
 
 This is an unofficial fan-made educational project and is not affiliated with or endorsed by the creators of _Undertale_.
+
+## License
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
